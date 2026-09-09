@@ -54,7 +54,7 @@ pip install qrcode[pillow]
 ---
 
 ## 🛠️ Customization Tip
-You can easily customize the color scheme of your QR code by modifying lines inside `qr_generator.py`:
+You can easily customize the color scheme of your QR code by modifying lines inside `Advance Qr Code Generator.py`:
 ```python
 # Change "black" and "white" to any hex color code like "#1A237E" or "#FFFFFF"
 img = qr.make_image(fill_color="black", back_color="white")
