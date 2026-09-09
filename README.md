@@ -31,7 +31,7 @@ Follow these quick steps to get the project running locally on your machine:
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com
+git clone https://github.com/heyitssuzain/Qr-Code-Maker.git
 cd Qr-Code-Maker
 ```
 
