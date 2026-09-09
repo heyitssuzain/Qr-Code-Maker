@@ -32,7 +32,7 @@ Follow these quick steps to get the project running locally on your machine:
 ### Step 1: Clone the Repository
 ```bash
 git clone https://github.com
-cd YOUR_REPOSITORY_NAME
+cd Qr-Code-Maker
 ```
 
 ### Step 2: Install Dependencies
@@ -40,15 +40,13 @@ You can install the required packages directly using `pip`:
 ```bash
 pip install qrcode[pillow]
 ```
-*(Alternatively, if you have a `requirements.txt` file, run: `pip install -r requirements.txt`)*
-
 ---
 
 ## 💻 How To Use
 
 1. Run the Python script in your terminal or command prompt:
    ```bash
-   python qr_generator.py
+   python Advance Qr Code Generator.py
    ```
 2. Enter your desired text or URL link when prompted.
 3. Check the `generated_qrcodes/` folder in your project directory to view your clean, high-resolution QR code image.
